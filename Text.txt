@@ -1,3 +1,6 @@
 hallo world!
+<<<<<<< HEAD
 
 Ich heiße Florian.
+ich bin das Internet!
+
